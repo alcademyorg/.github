@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://aicademyorg.netlify.app/">
+  <a href="#">
     <img src="/profile/logo.png" width="250px" />
   </a>
 </p>
